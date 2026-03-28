@@ -1,3 +1,4 @@
+#2353941 祁浩哲
 import numpy as np
 import collections
 import torch
@@ -229,5 +230,3 @@ pretty_print_poem(gen_poem("湖"))
 pretty_print_poem(gen_poem("湖"))
 pretty_print_poem(gen_poem("湖"))
 pretty_print_poem(gen_poem("君"))
-
-
